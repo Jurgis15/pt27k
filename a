@@ -1,0 +1,12 @@
+Name = "Code Academy"
+print(Name[5])
+10 + 10
+a = 5.5
+b = 25.3
+c = a + b 
+print (c) 
+c = a - b
+print (c)
+2 + 2
+2+2*5
+2 ** 2

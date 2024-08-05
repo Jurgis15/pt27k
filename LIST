@@ -1,0 +1,14 @@
+# my_list = []
+
+# name = "Jurgis"
+# my_list.append(name)
+
+# print(my_list)
+
+# print(my_list.count(""))
+my_list = [1, 2, 3, 4, 5]
+
+for item in my_list:
+    print(item)
+
+print ("job's done")
